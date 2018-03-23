@@ -10,6 +10,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Go](./Algorithm/PalindromeNumber.md) | Math | Easy |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)  | [Go](./Algorithm/RomanToInteger.md)   | Math, String | Easy |
 |  14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Go](./Algorithm/LongestCommonPrefix.md) | string | Easy |
+|  35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |  [Go]() | Array, Binary Search | Esay
 |  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)  | [Go](./Algorithm/RemoveDuplicatesFromSortedLis.md#Go) | Linked List  | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Go](./Algorithm/RemoveLinkedListElements.md#Go) | Linked List | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Go](./Algorithm/ReverseLinkedList.md#Go) | Linked List | Easy |
