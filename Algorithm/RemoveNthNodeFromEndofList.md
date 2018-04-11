@@ -1,6 +1,6 @@
 问题描述：Given a linked list, remove the n<sup>th</sup> node from the end of list and return its head.
 
-例子：
+例子:
 ```
 Given linked list: 1->2->3->4->5, and n = 2.
 
