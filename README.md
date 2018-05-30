@@ -17,3 +17,4 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Go](./Algorithm/RemoveLinkedListElements.md#Go) | Linked List | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Go](./Algorithm/ReverseLinkedList.md#Go) | Linked List | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Go](./Algorithm/PalindromeLinkedList.md) | Linked List, Two Pointers | Easy |
+| 796 | [Rotate String](https://github.com/yankewei/LeetCode-Go/blob/master/Algorithm/RotateString.md) | [Go](./Algorithm/RotateString.md) | | Easy
