@@ -8,7 +8,7 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 解决方法：
-# GO
+# Go实现
 ```go
 func twoSum(nums []int, target int) []int {
     var array []int
@@ -25,7 +25,7 @@ func twoSum(nums []int, target int) []int {
 }
 ```
 
-# Python
+# Python实现
 ```Python
 class Solution(object):
     def twoSum(self, nums, target):
