@@ -15,6 +15,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 |  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)  | [Go](./Algorithm/RemoveDuplicatesFromSortedLis.md#Go) | Linked List  | Easy |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Go](./Algorithm/SameTree.md) | Tree, Depth-first Search | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Go](./Algorithm/RemoveLinkedListElements.md#Go) | Linked List | Easy |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Go](./Algorithm/IsomorphicStrings.md) | Hash Table | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Go](./Algorithm/ReverseLinkedList.md#Go) | Linked List | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Go](./Algorithm/PalindromeLinkedList.md) | Linked List, Two Pointers | Easy |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Go](./Algorithm/RotateString.md) | | Easy
