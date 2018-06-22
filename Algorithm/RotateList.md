@@ -25,7 +25,7 @@ Notes:
 2. 判断`k`和`head`是否为空，然后求出`head`长度，之后用`k%long`来求出一个值，判断是否为0，然后让一个指针走`long - k % long - 1`的长度，Next指向一个临时变量存储后边的list，再将Next指向nil。再遍历临时变量，Next指向最初的双指针的另一个指针就可以了
 
 Solution:
-```
+```go
 func rotateRight(head *ListNode, k int) *ListNode {
     if k == 0 || head == nil {
         return head
