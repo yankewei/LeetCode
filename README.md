@@ -13,7 +13,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 |  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Go](./Algorithm/RemoveNthNodeFromEndofList.md) | 链表, 双指针 | Medium
 |  35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |  [Go]() | 数组, 二分查找 | Esay |
 |  61  | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Go](./Algorithm/RotateList.md) | 链表，双指针 | Medium |
-|  82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Go](./Algorithm/RemoveDuplicatesfromSortedListII.md) | 链表 | Medium |
+|  82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Go](./Algorithm/RemoveDuplicatesFromSortedListII.md) | 链表 | Medium |
 |  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)  | [Go](./Algorithm/RemoveDuplicatesFromSortedLis.md#Go) | 链表 | Easy |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Go](./Algorithm/SameTree.md) | 树, 深度优先搜索 | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Go](./Algorithm/RemoveLinkedListElements.md#Go) | 链表 | Easy |
