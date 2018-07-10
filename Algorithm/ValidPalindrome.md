@@ -27,7 +27,7 @@ func isPalindrome(s string) bool {
         if str[i] != str[j] {
             return false
         }
-	}
-	return true
+    }
+    return true
 }
 ```
