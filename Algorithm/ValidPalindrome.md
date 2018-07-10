@@ -35,3 +35,41 @@ func isPalindrome(s string) bool {
     return true
 }
 ```
+### 版本2
+```go
+/**
+ * 上个版本使用了正则，但是正则相对来说是比较耗时的，正好go有一个unicode package，提供了一些常用的操作字符的方法，比如我们即将用到的，
+ * ToLower()可以将字符转换为小写，IsLetter()是否是字符，IsNumber()是否是数字。这里需要注意的是上个版本我们直接用正则取出了所有的需要的字符
+ * 但是这个版本我们没用正则，就需要在字符判断的时候做些额外的逻辑处理，也就是指针+1，相当于对不符合的字符略过。
+ * 这个版本效率还是很高的，4ms，是正则版本的1/6。
+ *
+**/
+func isPalindrome(s string) bool {
+    if s == "" {
+		return true
+	}
+	buffers := []rune(s)
+
+	i := 0
+	j := len(buffers) - 1
+	for i < j {
+		x := unicode.ToLower(buffers[i])
+		y := unicode.ToLower(buffers[j])
+
+		if !unicode.IsLetter(x) && !unicode.IsNumber(x) {
+			i++
+			continue
+		}
+		if !unicode.IsLetter(y) && !unicode.IsNumber(y) {
+			j--
+			continue
+		}
+		if x != y {
+			return false
+		}
+		i++
+		j--
+	}
+	return true
+}
+```
