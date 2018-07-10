@@ -16,6 +16,10 @@ Output: false
 ```
 ### 版本1
 ```go
+/**
+ * 首先想到的是使用正则表达式，把所有需要的字符匹配出来，返回一个切片，然后再用strings.Join()函数转换为字符串，在统一转换为小写，对字符串进行遍历，
+ * 使用双指针，一个从头开始遍历，一个从末尾开始遍历
+**/
 func isPalindrome(s string) bool {
     regexp := regexp.MustCompile("[a-zA-Z0-9]+")
     slice := regexp.FindAllString(s, -1)
