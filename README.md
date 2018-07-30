@@ -29,5 +29,5 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Go](./Algorithm/ReverseLinkedList.md#Go) | 链表 | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Go](./Algorithm/PalindromeLinkedList.md) | 链表, 双指针 | Easy |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Go](./Algorithm/RotateString.md) | | Easy |
-| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Go](./Algorithm/Middle-of-the-Linked-List.md) | Easy |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Go](./Algorithm/Middle-of-the-Linked-List.md) | 链表 | Easy |
 
