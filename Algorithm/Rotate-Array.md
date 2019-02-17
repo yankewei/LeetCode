@@ -54,3 +54,30 @@ func rotate(nums []int, k int) {
 * 耗时：76 ms **时间复杂度O(n)**
 * 内存使用：7.5 MB **空间复杂度O(n)**
 #### 解决方案3：
+分三步：
+* 将整个数组反转
+* 把前K个反转
+* 把len(s) - k的反转
+```go
+func rotate(nums []int, k int){
+	length := len(nums)
+	k %= length
+	reverse(nums, 0, length - 1)
+	reverse(nums, 0, k - 1)
+	reverse(nums, k, length - 1)
+	
+}
+
+func reverse(nums []int, start int , end int){
+	tmp := 0
+	for start < end {
+		tmp = nums[start]
+		nums[start] = nums[end]
+		nums[end] = tmp
+		start++
+		end--
+	}
+}
+```
+* 耗时 72 ms **时间复杂度O(n)**
+* 内存占用 7.6 MB **空间复杂度O(1)**
