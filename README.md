@@ -23,6 +23,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 112  | [Path Sum ](https://leetcode.com/problems/path-sum/description/) | [Go](./Algorithm/Path-Sum.md) | 数，深度优先搜索 | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Go](./Algorithm/ValidPalindrome.md) | 双指针，字符串 | Easy |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Go](./Algorithm/TwoSumII-Input-array-is-sorted.md) | 数组，双指针，二分查找 | Easy |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Go](./Algorithm/Rotate-Array.md) | 数组 | Easy|
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Go](./Algorithm/HouseRobber.md) | 动态规划 |  Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Go](./Algorithm/RemoveLinkedListElements.md#Go) | 链表 | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Go](./Algorithm/IsomorphicStrings.md) | Hash表 | Easy |
