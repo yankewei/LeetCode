@@ -24,7 +24,7 @@ rotate 2 steps to the right: [3,99,-1,-100]
 #### 解决方案1：
 强制转换，过程就是取最后一个元素和第一个元素交换，第一个和第二个交换...。这样的过程执行K次就可以了
 ```go
-func rotate_one(nums []int, k int){
+func rotate(nums []int, k int){
 	tmp := 0;
 	for i := 0; i < k; i++ {
 		end := nums[len(nums) - 1]
@@ -37,6 +37,20 @@ func rotate_one(nums []int, k int){
 	}
 }
 ```
-* 耗时: 216 ms 时间复杂度O(n*k)
-* 内存使用: 7.6 MB 空间复杂度O(n)
+* 耗时: 216 ms **时间复杂度O(n*k)**
+* 内存使用: 7.6 MB **空间复杂度O(n)**
 #### 解决方案2：
+创建一个相同长度的临时数据，然后把原数组的**i**下标的元素放到临时数组的**i+k**下标
+```go
+func rotate(nums []int, k int) {
+	length := len(nums)
+	tmp := make([]int, length)
+	for i := 0; i < length; i++ {
+		tmp[(i + k)%length] = nums[i]
+	}
+	copy(nums, tmp)
+}
+```
+* 耗时：76 ms **时间复杂度O(n)**
+* 内存使用：7.5 MB **空间复杂度O(n)**
+#### 解决方案3：
