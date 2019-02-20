@@ -36,3 +36,5 @@ func compare(a int, b int) int {
 	return a
 }
 ```
+* 耗时：372 ms **时间复杂度O(n<sup>2</sup>)**
+* 内存使用: 5.6 MB **空间复杂度O(1)**
