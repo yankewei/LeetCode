@@ -38,3 +38,35 @@ func compare(a int, b int) int {
 ```
 * 耗时：372 ms **时间复杂度O(n<sup>2</sup>)**
 * 内存使用: 5.6 MB **空间复杂度O(1)**
+##### 双指针
+###### 我们知道面积公式 `底 * 高`,底我们知道最长就是数组长度，高是按最小的值来计算的，这样我们就可以从两端开始算，哪一端的值小，就移动它，左端值小就++，右边值小就--。
+```go
+func maxArea(s []int) int {
+	maxArea := 0
+	length := len(s)
+	l := 0
+	r := length - 1
+	for l < r {
+		x := r - l
+		y := compare(s[l], s[r])
+		if x * y > maxArea {
+			maxArea = x * y
+		}
+		if s[l] > s[r] {
+			r--;
+		} else {
+			l++;
+		}
+	}
+	return maxArea
+}
+
+func compare(a int, b int) int {
+	if a >= b {
+		return b
+	}
+	return a
+}
+```
+* 耗时 16 ms **时间复杂度O(n)**
+* 内存使用 5.6MB **空间复杂度O(1)**
