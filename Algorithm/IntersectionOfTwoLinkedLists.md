@@ -85,4 +85,6 @@ func getIntersectionNode(headA, headB *ListNode) *ListNode {
     }
     return res
 }
+// 时间复杂度 O(m+n) 耗时52ms
+// 空间复杂度 O(m)或者O(n) 内存占用8.5MB
 ```
