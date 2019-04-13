@@ -52,4 +52,37 @@ func getIntersectionNode(headA, headB *ListNode) *ListNode {
     }
     return nil
 }
+// 时间复杂度 O(mn), 耗时564ms
+// 空间复杂度 O(1), 内存占用6.6MB	
+```
+###### 使用哈希
+###### 这个也很清楚，就是先遍历一个链表，保存所有节点。然后遍历第二个链表，如果节点在hash中存在则表示相交
+```go
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
+func getIntersectionNode(headA, headB *ListNode) *ListNode {
+    if headA == nil || headB == nil {
+        return nil
+    }
+    var res *ListNode
+    dict := make(map[*ListNode]bool)
+    for headA != nil {
+        dict[headA] = true
+        headA = headA.Next
+    }
+    for headB != nil {
+        _, exist := dict[headB]
+        if exist {
+            res = headB
+            break
+        }
+        headB = headB.Next
+    }
+    return res
+}
 ```
