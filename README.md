@@ -27,6 +27,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 112  | [Path Sum ](https://leetcode.com/problems/path-sum/description/) | [Go](./Algorithm/Path-Sum.md) | 数，深度优先搜索 | 简单 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Go](./Algorithm/ValidPalindrome.md) | 双指针，字符串 | 简单 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](./Algorithm/LinkedListCycle.md) | 链表,双指针 | 简单 |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Go](./Algorithm/IntersectionOfTwoLinkedLists.md) | 链表,哈希,双指针 | 简单 |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Go](./Algorithm/TwoSumII-Input-array-is-sorted.md) | 数组，双指针，二分查找 | 简单 |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Go](./Algorithm/Rotate-Array.md) | 数组 | 简单|
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Go](./Algorithm/HouseRobber.md) | 动态规划 |  简单 |
