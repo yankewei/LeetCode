@@ -55,7 +55,7 @@ func getIntersectionNode(headA, headB *ListNode) *ListNode {
 // 时间复杂度 O(mn), 耗时564ms
 // 空间复杂度 O(1), 内存占用6.6MB	
 ```
-###### 使用哈希
+###### 哈希
 ###### 这个也很清楚，就是先遍历一个链表，保存所有节点。然后遍历第二个链表，如果节点在hash中存在则表示相交
 ```go
 /**
@@ -87,4 +87,47 @@ func getIntersectionNode(headA, headB *ListNode) *ListNode {
 }
 // 时间复杂度 O(m+n) 耗时52ms
 // 空间复杂度 O(m)或者O(n) 内存占用8.5MB
+```
+###### 双指针
+###### 首先判断是否相交，假如相交，那么headA和headB的末尾节点是相等。不相等则表示不相交。
+###### 我们可以依次遍历headA和headB两个链表，并把链表的长度记录下来，计算长度差`diffLen`，既然链表有相交，那么我们可以让较长的链表走`diffLen`的长度，然后在和较短的链表同步遍历，当两个值相等时，自然就是相交点。
+```go
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
+func getIntersectionNode(headA, headB *ListNode) *ListNode {
+    if headA == nil || headB == nil {
+        return nil
+    }
+    travelA := headA
+    travelB := headB
+    var lenA,lenB int
+    for headA != nil {
+        headA = headA.Next
+        lenA++
+    }
+    for headB != nil {
+        headB = headB.Next
+        lenB++
+    }
+    diffLen := Abs(lenA - lenB)
+    for i := 0; i < diffLen; i++ {
+        if lenA > lenB {
+            travelA = travelA.Next
+        } else {
+            travelB = travelB.Next
+        }
+    }
+    for tarvelA != travelB {
+        travelA = travelA.Next
+        travelB = travelB.Next
+    }
+    return travelA
+}
+// 时间复杂度 O(m+n) 耗时 64ms
+// 空间复杂度 O(1) 内存占用 7.5MB
 ```
