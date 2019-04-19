@@ -1,5 +1,6 @@
 # LeetCode
 ![问题总数](https://img.shields.io/badge/问题总数-34-blue.svg)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
