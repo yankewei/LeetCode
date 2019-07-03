@@ -1,5 +1,5 @@
 # LeetCode
-![问题总数](https://img.shields.io/badge/问题总数-34-blue.svg)
+![问题总数](https://img.shields.io/badge/问题总数-35-blue.svg)
 
 LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
@@ -26,7 +26,8 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Go](./Algorithm/SameTree.md) | 树, 深度优先搜索 | 简单 |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Go](./Algorithm/SymmetricTree.md) | 树，深度优先搜索，广度优先搜索 | 简单 |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [go](./Algorithm/MaximumDepthofBinaryTree.md) | 树，深度优先搜索 | 简单 |
-| 112  | [Path Sum ](https://leetcode.com/problems/path-sum/description/) | [Go](./Algorithm/Path-Sum.md) | 数，深度优先搜索 | 简单 |
+| 112  | [Path Sum ](https://leetcode.com/problems/path-sum/description/) | [Go](./Algorithm/Path-Sum.md) | 树，深度优先搜索 | 简单 |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Go](./Algorithm/BestTimetoBuyandSellStock.md) | 数组，动态规划 | 简单 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Go](./Algorithm/ValidPalindrome.md) | 双指针，字符串 | 简单 |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](./Algorithm/LinkedListCycle.md) | 链表,双指针 | 简单 |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Go](./Algorithm/IntersectionOfTwoLinkedLists.md) | 链表,哈希,双指针 | 简单 |
