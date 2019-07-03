@@ -40,6 +40,25 @@ func maxProfit(prices []int) int {
 	return max
 }
 ```
-
+- 时间复杂度 O(n<sup>2</sup>)
+- 空间复杂度 O(1)
 ##### 动态规划（个人认为不太像）
-###### 我们想象
+###### 股票的趋势其实是一个折线图
+![示例](https://leetcode.com/media/original_images/121_profit_graph.png)
+###### 那么我们就是找到最低点和最高点就可以了，做一个减法，就是收益最大值
+```go
+func maxProfit(prices []int) int {
+    minProfit := math.MaxInt64
+	maxProfit := 0
+	for i := 0; i < len(prices); i++ {
+		if prices[i] < minProfit {
+			minProfit = prices[i]
+		} else if (prices[i] - minProfit) > maxProfit {
+			maxProfit = prices[i] - minProfit
+		}
+	}
+	return maxProfit
+}
+```
+- 时间复杂度 O(n)
+- 空间复杂度 O(1)
