@@ -1,12 +1,12 @@
 # LeetCode
-![问题总数](https://img.shields.io/badge/问题总数-35-blue.svg)
+![问题总数](https://img.shields.io/badge/问题总数-37-blue.svg)
 
 LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
 |   #  |   Title       |   Soulution   |   Tag         |      Difficulty  |
 | ---  | ----          | ----          |  ----         |        -----     |
-| 1    | [Two Sum](https://leetcode.com/problems/two-sum/description/)       |    [Go](./Algorithm/TwoSum.md#GO), [Python](./Algorithm/TwoSum.md#Python)      | 数组, Hash表     |   简单       |
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum/description/)       |    [Go](./Algorithm/TwoSum.md#GO) | 数组, Hash表     |   简单       |
 | 2    |  [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)  |  [PHP](./Algorithm/AddTwoNumbers.md), [Go](./Algorithm/AddTwoNumbers.md) | 链表, 数组 | 中等|
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Go](./Algorithm/ReverseInteger.md) | 数学 | 简单 |
 | 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Go](./Algorithm/PalindromeNumber.md) | 数学 | 简单 |
@@ -29,6 +29,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 112  | [Path Sum ](https://leetcode.com/problems/path-sum/description/) | [Go](./Algorithm/Path-Sum.md) | 树，深度优先搜索 | 简单 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Go](./Algorithm/BestTimetoBuyandSellStock.md) | 数组，动态规划 | 简单 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Go](./Algorithm/ValidPalindrome.md) | 双指针，字符串 | 简单 |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Go](./Algorithm/SingleNumber.md) | 哈希, 位操作 | 简单
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](./Algorithm/LinkedListCycle.md) | 链表,双指针 | 简单 |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Go](./Algorithm/IntersectionOfTwoLinkedLists.md) | 链表,哈希,双指针 | 简单 |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Go](./Algorithm/TwoSumII-Input-array-is-sorted.md) | 数组，双指针，二分查找 | 简单 |
