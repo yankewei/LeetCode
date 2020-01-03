@@ -3,6 +3,13 @@ Write a function to find the longest common prefix string amongst an array of st
 
 例子：
 ```
+输入: ["flower","flow","flight"]
+输出: "fl"
+```
+```
+输入: ["dog","racecar","car"]
+输出: ""
+解释: 输入不存在公共前缀。
 ```
 
 解决方法：
