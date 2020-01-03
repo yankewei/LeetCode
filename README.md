@@ -1,5 +1,4 @@
 # LeetCode
-![问题总数](https://img.shields.io/badge/问题总数-37-blue.svg)
 
 LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
