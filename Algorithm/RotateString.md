@@ -1,8 +1,6 @@
-We are given two strings, `A` and `B`.
+###### 给定两个字符串, `A`和`B`。
 
-`A` shift on `A` consists of taking string `A` and moving the leftmost character to the rightmost position.
-For example, if `A = 'abcde'`, then it will be `'bcdea'` after one shift on `A`. 
-Return True if and only if `A` can become `B` after some number of shifts on `A`.
+###### `A`的旋转操作就是将 A 最左边的字符移动到最右边。 例如, 若 `A='abcde'`，在移动一次之后结果就是`'bcdea'`。如果在若干次旋转操作之后，`A`能变成`B`，那么返回`True`。
 
 ```
 Example 1:
@@ -13,8 +11,7 @@ Example 2:
 Input: A = 'abcde', B = 'abced'
 Output: false
 ```
-**Note:**
-- A and B will have length at most 100.
+###### `A`和`B`的长度不超过100。
 
 # Go
 ```go
