@@ -41,4 +41,4 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Go](./Algorithm/DeleteNodeInALinkedList.md) | 链表 | 简单 |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Go](./Algorithm/RotateString.md) | | 简单 |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Go](./Algorithm/Middle-of-the-Linked-List.md) | 链表 | 简单 |
-| 226 | [invert-binary-tree(翻转二叉树)](https://leetcode-cn.com/problems/invert-binary-tree/) | [Go](./Algorithm/invert-binary-tree) | 树 | 简单 |
+| 226 | [Invert Binary Tree(翻转二叉树)](https://leetcode-cn.com/problems/invert-binary-tree/) | [Go](./Algorithm/invert-binary-tree) | 树 | 简单 |
