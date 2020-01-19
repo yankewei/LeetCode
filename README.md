@@ -19,6 +19,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 |  26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](./Algorithm/RemoveDuplicatesFromSortedArray.md) | 数组, 双指针 | 简单
 |  27  | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [Go](./Algorithm/移除元素.md) | 数组，双指针 | 简单 |
 |  35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |  [Go](./Algorithm/SearchInsertPosition.md) | 数组, 二分查找 | 简单 |
+|  53  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [Go](./Algorithm/最大子序和.md) | 数组，动态规划 | 简单
 |  58  | [Length of LastWord](https://leetcode.com/problems/length-of-last-word/description/) | [Go](./Algorithm/LengthofLastWord.md) | 字符串 | 简单
 |  61  | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Go](./Algorithm/RotateList.md) | 链表，双指针 | 中等 |
 |  82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Go](./Algorithm/RemoveDuplicatesFromSortedListII.md) | 链表 | 中等 |
