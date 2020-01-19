@@ -3,7 +3,7 @@
 LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
-|   #  |   Title       |   Soulution   |   Tag         |      Difficulty  |
+|   #  |   Title       |   Solution   |   Tag         |      Difficulty  |
 | ---  | ----          | ----          |  ----         |        -----     |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/description/)       |    [Go](./Algorithm/TwoSum.md#GO) | 数组, Hash表     |   简单       |
 | 2    |  [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)  |  [PHP](./Algorithm/AddTwoNumbers.md), [Go](./Algorithm/AddTwoNumbers.md) | 链表, 数组 | 中等|
