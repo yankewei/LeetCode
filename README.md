@@ -31,6 +31,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 112  | [Path Sum ](https://leetcode.com/problems/path-sum/description/) | [Go](./Algorithm/Path-Sum.md) | 树，深度优先搜索 | 简单 |
 | 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [Go](./Algorithm/杨辉三角.md) | 数组 | 简单 | 
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Go](./Algorithm/BestTimetoBuyandSellStock.md) | 数组，动态规划 | 简单 |
+| 122 | [买卖股票的最佳时机Ⅱ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Go](./Algorithm/买卖股票的最佳时机Ⅱ.md) | 数组，贪心算法 | 简单 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Go](./Algorithm/ValidPalindrome.md) | 双指针，字符串 | 简单 |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Go](./Algorithm/SingleNumber.md) | 哈希, 位操作 | 简单
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](./Algorithm/LinkedListCycle.md) | 链表,双指针 | 简单 |
