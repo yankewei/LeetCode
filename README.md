@@ -29,7 +29,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Go](./Algorithm/SymmetricTree.md) | 树，深度优先搜索，广度优先搜索 | 简单 |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [go](./Algorithm/MaximumDepthofBinaryTree.md) | 树，深度优先搜索 | 简单 |
 | 112  | [Path Sum ](https://leetcode.com/problems/path-sum/description/) | [Go](./Algorithm/Path-Sum.md) | 树，深度优先搜索 | 简单 |
-| 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [Go](./Algorithm/杨辉三角.md) | 数组 | | 简单 | 
+| 118  | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [Go](./Algorithm/杨辉三角.md) | 数组 | 简单 | 
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Go](./Algorithm/BestTimetoBuyandSellStock.md) | 数组，动态规划 | 简单 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Go](./Algorithm/ValidPalindrome.md) | 双指针，字符串 | 简单 |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Go](./Algorithm/SingleNumber.md) | 哈希, 位操作 | 简单
