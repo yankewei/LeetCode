@@ -42,7 +42,8 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Go](./Algorithm/RemoveLinkedListElements.md#Go) | 链表 | 简单 |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Go](./Algorithm/IsomorphicStrings.md) | Hash表 | 简单 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Go](./Algorithm/ReverseLinkedList.md#Go) | 链表 | 简单 |
-| 217 | [存在重复元素.md](https://leetcode-cn.com/problems/contains-duplicate/) | [Go](./Algorithm/存在重复元素.md) | 数组，哈希 | 简单 |
+| 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [Go](./Algorithm/存在重复元素.md) | 数组，哈希 | 简单 |
+| 219 | [存在重复元素Ⅱ](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [Go](./Algorithm/存在重复元素Ⅱ.md) |数组，哈希 | 简单 |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Go](./Algorithm/PalindromeLinkedList.md) | 链表, 双指针 | 简单 |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Go](./Algorithm/DeleteNodeInALinkedList.md) | 链表 | 简单 |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Go](./Algorithm/RotateString.md) | | 简单 |
