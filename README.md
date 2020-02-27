@@ -49,3 +49,4 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Go](./Algorithm/RotateString.md) | | 简单 |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Go](./Algorithm/Middle-of-the-Linked-List.md) | 链表 | 简单 |
 | 226 | [Invert Binary Tree(翻转二叉树)](https://leetcode-cn.com/problems/invert-binary-tree/) | [Go](./Algorithm/Invert-Binary-Tree.md) | 树 | 简单 |
+| 1290 | [二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/1) | [链表](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8), [位运算](https://github.com/yankewei/LeetCode-Go/labels/%E4%BD%8D%E8%BF%90%E7%AE%97) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
