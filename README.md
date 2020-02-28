@@ -7,6 +7,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | ---  | ----          | ----          |  ----         |        -----     |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/description/)       |    [Go](./Algorithm/TwoSum.md#GO) | 数组, Hash表     |   简单       |
 | 2    |  [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)  |  [PHP](./Algorithm/AddTwoNumbers.md), [Go](./Algorithm/AddTwoNumbers.md) | 链表, 数组 | 中等|
+|  3   | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [Go](https://github.com/yankewei/LeetCode-Go/issues/6) | [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2), [双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88), [滑动窗口](https://github.com/yankewei/LeetCode-Go/labels/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Go](./Algorithm/ReverseInteger.md) | 数学 | 简单 |
 | 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Go](./Algorithm/PalindromeNumber.md) | 数学 | 简单 |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Go](./Algorithm/Container-With-Most-Water.md) | 数组，双指针 | 中等 |
