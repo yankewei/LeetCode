@@ -14,7 +14,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 |  14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Go](./Algorithm/LongestCommonPrefix.md) | 字符串 | 简单 |
 |  15  | [3Sum](https://leetcode.com/problems/3sum/)  | [Go](./Algorithm/3Sum.md) | 数组，双指针 | 中等 |
 |  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Go](./Algorithm/RemoveNthNodeFromEndofList.md) | 链表, 双指针 | 中等 |
-|  20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Go](./Algorithm/Valid-Parentheses.md) | 字符串，栈 | 简单 |
+|  20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/4) | [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)，[栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 |  21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Go](./Algorithm/MergeTwoSortedLists.md) | 链表 | 简单
 |  26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](./Algorithm/RemoveDuplicatesFromSortedArray.md) | 数组, 双指针 | 简单
 |  27  | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [Go](./Algorithm/移除元素.md) | 数组，双指针 | 简单 |
