@@ -23,6 +23,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 |  53  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [Go](./Algorithm/最大子序和.md) | 数组，动态规划 | 简单
 |  58  | [Length of LastWord](https://leetcode.com/problems/length-of-last-word/description/) | [Go](./Algorithm/LengthofLastWord.md) | 字符串 | 简单
 |  61  | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Go](./Algorithm/RotateList.md) | 链表，双指针 | 中等 |
+|  71  | [简化路径](https://leetcode-cn.com/problems/simplify-path) | [Go](https://github.com/yankewei/LeetCode-Go/issues/7) | [栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88), [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 |  82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Go](./Algorithm/RemoveDuplicatesFromSortedListII.md) | 链表 | 中等 |
 |  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)  | [Go](./Algorithm/RemoveDuplicatesFromSortedList.md#Go) | 链表 | 简单 |
 |  86  | [分隔链表](https://leetcode-cn.com/problems/partition-list) | [Go](https://github.com/yankewei/LeetCode-Go/issues/3) | [链表](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8), [双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
