@@ -3,6 +3,9 @@
 LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
+#### 题目困难程度
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-5-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)&nbsp;&nbsp;&nbsp;&nbsp;[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-3-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)&nbsp;&nbsp;&nbsp;&nbsp;[![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-0-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
+
 |   #  |   Title       |   Solution   |   Tag         |      Difficulty  |
 | ---  | ----          | ----          |  ----         |        -----     |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/description/)       |    [Go](./Algorithm/TwoSum.md#GO) | 数组, Hash表     |   简单       |
@@ -53,5 +56,6 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Go](./Algorithm/Middle-of-the-Linked-List.md) | 链表 | 简单 |
 | 225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/5) | [栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88), [设计](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 226 | [Invert Binary Tree(翻转二叉树)](https://leetcode-cn.com/problems/invert-binary-tree/) | [Go](./Algorithm/Invert-Binary-Tree.md) | 树 | 简单 |
+| 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) | [Go](https://github.com/yankewei/LeetCode-Go/issues/8) | [栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 1290 | [二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/1) | [链表](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8), [位运算](https://github.com/yankewei/LeetCode-Go/labels/%E4%BD%8D%E8%BF%90%E7%AE%97) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 面试题 | [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/2) | [链表](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8), [双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
