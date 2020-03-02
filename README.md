@@ -3,8 +3,10 @@
 LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
-#### 题目困难程度
+#### 困难程度
 [![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-5-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)&nbsp;&nbsp;&nbsp;&nbsp;[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-3-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)&nbsp;&nbsp;&nbsp;&nbsp;[![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-0-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
+#### 类型
+[![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-3-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)&nbsp;&nbsp;&nbsp;&nbsp;[![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-0-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)&nbsp;&nbsp;&nbsp;&nbsp;[![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-3-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
 
 |   #  |   Title       |   Solution   |   Tag         |      Difficulty  |
 | ---  | ----          | ----          |  ----         |        -----     |
