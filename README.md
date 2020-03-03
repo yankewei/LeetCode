@@ -4,17 +4,17 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
 #### 困难程度
-[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-5-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-6-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
 [![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-3-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-0-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-3-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
-[![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-0-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
+[![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-1-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
 [![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-3-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
 [![设计](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1-1-4e32bc)](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1)
 #### 解法
 [![位运算](https://img.shields.io/badge/%E4%BD%8D%E8%BF%90%E7%AE%97-1-7786d1)](https://github.com/yankewei/LeetCode-Go/labels/%E4%BD%8D%E8%BF%90%E7%AE%97)
-[![双指针](https://img.shields.io/badge/%E5%8F%8C%E6%8C%87%E9%92%88-3-388099)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88)
+[![双指针](https://img.shields.io/badge/%E5%8F%8C%E6%8C%87%E9%92%88-4-388099)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88)
 [![栈](https://img.shields.io/badge/%E6%A0%88-4-d015ed)](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88)
 [![滑动窗口](https://img.shields.io/badge/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3-1-f4d577)](https://github.com/yankewei/LeetCode-Go/labels/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)
 
@@ -42,7 +42,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 |  82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Go](./Algorithm/RemoveDuplicatesFromSortedListII.md) | 链表 | 中等 |
 |  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)  | [Go](./Algorithm/RemoveDuplicatesFromSortedList.md#Go) | 链表 | 简单 |
 |  86  | [分隔链表](https://leetcode-cn.com/problems/partition-list) | [Go](https://github.com/yankewei/LeetCode-Go/issues/3) | [链表](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8), [双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
-|  88  | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Go](./Algorithm/合并两个有序数组.md) | 数组，双指针 | 简单
+|  88  | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/9) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)，[双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Go](./Algorithm/SameTree.md) | 树, 深度优先搜索 | 简单 |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Go](./Algorithm/SymmetricTree.md) | 树，深度优先搜索，广度优先搜索 | 简单 |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [go](./Algorithm/MaximumDepthofBinaryTree.md) | 树，深度优先搜索 | 简单 |
