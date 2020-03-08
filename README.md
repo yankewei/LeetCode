@@ -5,7 +5,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 
 #### 困难程度
 [![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-9-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
-[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-4-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
+[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-5-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-0-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-3-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
@@ -19,6 +19,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 [![栈](https://img.shields.io/badge/%E6%A0%88-5-d015ed)](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88)
 [![滑动窗口](https://img.shields.io/badge/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3-3-f4d577)](https://github.com/yankewei/LeetCode-Go/labels/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)
 [![广度优先搜索](https://img.shields.io/badge/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A0-1-61e8a4)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
+[![动态规划](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-1-e2770b)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 
 |   #  |   Title       |   Solution   |   Tag         |      Difficulty  |
 | ---  | ----          | ----          |  ----         |        -----     |
@@ -70,6 +71,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Go](./Algorithm/Middle-of-the-Linked-List.md) | 链表 | 简单 |
 | 225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/5) | [栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88), [设计](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 226 | [Invert Binary Tree(翻转二叉树)](https://leetcode-cn.com/problems/invert-binary-tree/) | [Go](./Algorithm/Invert-Binary-Tree.md) | 树 | 简单 |
+| 322 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/14) | [动态规划](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) | [Go](https://github.com/yankewei/LeetCode-Go/issues/8) | [栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 994 | [腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/10) | [广度优先搜索](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 1102 | [分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people) | [Go](https://github.com/yankewei/LeetCode-Go/issues/11) | [数学](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E5%AD%A6) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
