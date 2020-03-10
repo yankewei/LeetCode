@@ -4,7 +4,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
 #### 困难程度
-[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-10-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-11-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
 [![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-5-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-0-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
@@ -19,7 +19,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 [![栈](https://img.shields.io/badge/%E6%A0%88-5-d015ed)](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88)
 [![滑动窗口](https://img.shields.io/badge/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3-3-f4d577)](https://github.com/yankewei/LeetCode-Go/labels/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)
 [![广度优先搜索](https://img.shields.io/badge/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A0-1-61e8a4)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
-[![动态规划](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-2-e2770b)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
+[![动态规划](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-3-e2770b)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 
 |   #  |   Title       |   Solution   |   Tag         |      Difficulty  |
 | ---  | ----          | ----          |  ----         |        -----     |
@@ -41,6 +41,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 |  53  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [Go](./Algorithm/最大子序和.md) | 数组，动态规划 | 简单
 |  58  | [Length of LastWord](https://leetcode.com/problems/length-of-last-word/description/) | [Go](./Algorithm/LengthofLastWord.md) | 字符串 | 简单
 |  61  | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Go](./Algorithm/RotateList.md) | 链表，双指针 | 中等 |
+|  70  | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | [Go](https://github.com/yankewei/LeetCode-Go/issues/16) | [动态规划](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 |  71  | [简化路径](https://leetcode-cn.com/problems/simplify-path) | [Go](https://github.com/yankewei/LeetCode-Go/issues/7) | [栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88), [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 |  82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Go](./Algorithm/RemoveDuplicatesFromSortedListII.md) | 链表 | 中等 |
 |  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)  | [Go](./Algorithm/RemoveDuplicatesFromSortedList.md#Go) | 链表 | 简单 |
