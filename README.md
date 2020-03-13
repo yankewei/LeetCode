@@ -4,12 +4,12 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
 #### 困难程度
-[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-13-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-14-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
 [![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-5-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-0-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-4-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
-[![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-3-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
+[![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-4-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
 [![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-3-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
 [![设计](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1-1-4e32bc)](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1)
 [![数学](https://img.shields.io/badge/%E6%95%B0%E5%AD%A6-1-d4c5f9)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E5%AD%A6)
@@ -59,6 +59,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](./Algorithm/LinkedListCycle.md) | 链表,双指针 | 简单 |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Go](./Algorithm/IntersectionOfTwoLinkedLists.md) | 链表,哈希,双指针 | 简单 |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Go](./Algorithm/TwoSumII-Input-array-is-sorted.md) | 数组，双指针，二分查找 | 简单 |
+| 169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/19) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Go](./Algorithm/Rotate-Array.md) | 数组 | 简单|
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Go](./Algorithm/HouseRobber.md) | 动态规划 |  简单 |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Go](./Algorithm/RemoveLinkedListElements.md#Go) | 链表 | 简单 |
