@@ -5,11 +5,11 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 
 #### 困难程度
 [![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-15-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
-[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-6-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
+[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-7-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-0-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-4-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
-[![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-6-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
+[![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-7-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
 [![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-3-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
 [![设计](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1-1-4e32bc)](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1)
 [![数学](https://img.shields.io/badge/%E6%95%B0%E5%AD%A6-1-d4c5f9)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E5%AD%A6)
@@ -21,6 +21,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 [![广度优先搜索](https://img.shields.io/badge/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A0-1-61e8a4)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
 [![动态规划](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-3-e2770b)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 [![二分查找](https://img.shields.io/badge/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE-1-3b8fba)](https://github.com/yankewei/LeetCode-Go/labels/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE)
+[![深度优先搜索](https://img.shields.io/badge/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2-1-9f59e0)](https://github.com/yankewei/LeetCode-Go/labels/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
 
 |   #  |   Title       |   Solution   |   Tag         |      Difficulty  |
 | ---  | ----          | ----          |  ----         |        -----     |
@@ -71,6 +72,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Go](./Algorithm/PalindromeLinkedList.md) | 链表, 双指针 | 简单 |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Go](./Algorithm/DeleteNodeInALinkedList.md) | 链表 | 简单 |
 | 300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | [Go](https://github.com/yankewei/LeetCode-Go/issues/20) | [动态规划](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)、[二分查找](https://github.com/yankewei/LeetCode-Go/labels/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE)、[数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
+| 695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island) | [Go](https://github.com/yankewei/LeetCode-Go/issues/22) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)、[深度优先搜索](https://github.com/yankewei/LeetCode-Go/labels/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Go](./Algorithm/RotateString.md) | | 简单 |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Go](./Algorithm/Middle-of-the-Linked-List.md) | 链表 | 简单 |
 | 225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/5) | [栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88), [设计](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
