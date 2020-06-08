@@ -5,7 +5,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 
 #### 困难程度
 [![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-23-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
-[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-10-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
+[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-11-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-2-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-6-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
@@ -18,7 +18,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 [![双指针](https://img.shields.io/badge/%E5%8F%8C%E6%8C%87%E9%92%88-6-388099)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88)
 [![栈](https://img.shields.io/badge/%E6%A0%88-5-d015ed)](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88)
 [![滑动窗口](https://img.shields.io/badge/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3-3-f4d577)](https://github.com/yankewei/LeetCode-Go/labels/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)
-[![广度优先搜索](https://img.shields.io/badge/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A0-1-61e8a4)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
+[![广度优先搜索](https://img.shields.io/badge/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A0-2-61e8a4)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
 [![动态规划](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-5-e2770b)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 [![二分查找](https://img.shields.io/badge/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE-2-3b8fba)](https://github.com/yankewei/LeetCode-Go/labels/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE)
 [![深度优先搜索](https://img.shields.io/badge/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2-2-9f59e0)](https://github.com/yankewei/LeetCode-Go/labels/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
@@ -60,6 +60,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/15) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)、[动态规划](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 122 | [买卖股票的最佳时机Ⅱ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Go](./Algorithm/买卖股票的最佳时机Ⅱ.md) | 数组，贪心算法 | 简单 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Go](./Algorithm/ValidPalindrome.md) | 双指针，字符串 | 简单 |
+| 127 | [单词接龙](https://leetcode-cn.com/problems/word-ladder/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/36) |[广度优先搜索](https://github.com/yankewei/LeetCode-Go/labels/广度优先搜索) | [中等](https://github.com/yankewei/LeetCode-Go/labels/中等) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Go](./Algorithm/SingleNumber.md) | 哈希, 位操作 | 简单
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Go](./Algorithm/LinkedListCycle.md) | 链表,双指针 | 简单 |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Go](./Algorithm/IntersectionOfTwoLinkedLists.md) | 链表,哈希,双指针 | 简单 |
