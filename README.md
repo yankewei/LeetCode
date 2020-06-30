@@ -4,14 +4,14 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
 #### 困难程度
-[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-23-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-24-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
 [![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-13-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-2-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-6-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
 [![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-14-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
 [![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-4-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
-[![设计](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1-1-4e32bc)](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1)
+[![设计](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1-2-4e32bc)](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1)
 [![数学](https://img.shields.io/badge/%E6%95%B0%E5%AD%A6-3-d4c5f9)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E5%AD%A6)
 #### 解法
 [![位运算](https://img.shields.io/badge/%E4%BD%8D%E8%BF%90%E7%AE%97-1-7786d1)](https://github.com/yankewei/LeetCode-Go/labels/%E4%BD%8D%E8%BF%90%E7%AE%97)
@@ -103,3 +103,4 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 面试题57 - II | [和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/12) | [滑动窗口](https://github.com/yankewei/LeetCode-Go/labels/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) | 
 | 面试题59 - II | [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof) | [Go](https://github.com/yankewei/LeetCode-Go/issues/13) | [滑动窗口](https://github.com/yankewei/LeetCode-Go/labels/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)、[栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 | 面试题 01.06 | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/23) | [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
+| 剑指 Offer 09 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) | [Go](https://github.com/yankewei/LeetCode-Go/issues/39) | [栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88)，[设计](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
