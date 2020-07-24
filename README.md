@@ -4,12 +4,12 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
 #### 困难程度
-[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-29-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-30-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
 [![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-15-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-2-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-7-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
-[![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-17-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
+[![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-18-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
 [![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-4-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
 [![设计](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1-2-4e32bc)](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1)
 [![数学](https://img.shields.io/badge/%E6%95%B0%E5%AD%A6-3-d4c5f9)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E5%AD%A6)
@@ -104,6 +104,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 1160 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters) | [Go](https://github.com/yankewei/LeetCode-Go/issues/24) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 1290 | [二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/1) | [链表](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8), [位运算](https://github.com/yankewei/LeetCode-Go/labels/%E4%BD%8D%E8%BF%90%E7%AE%97) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 1431 | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies) | [Go](https://github.com/yankewei/LeetCode-Go/issues/35) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
+| 1480 | [一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array) | [Go](https://github.com/yankewei/LeetCode-Go/issues/47) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 面试题 | [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/2) | [链表](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8), [双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 面试题57 - II | [和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/12) | [滑动窗口](https://github.com/yankewei/LeetCode-Go/labels/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) | 
 | 面试题59 - II | [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof) | [Go](https://github.com/yankewei/LeetCode-Go/issues/13) | [滑动窗口](https://github.com/yankewei/LeetCode-Go/labels/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)、[栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
