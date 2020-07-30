@@ -4,7 +4,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
 #### 困难程度
-[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-31-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-32-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
 [![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-15-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-3-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
@@ -20,7 +20,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 [![栈](https://img.shields.io/badge/%E6%A0%88-5-d015ed)](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88)
 [![滑动窗口](https://img.shields.io/badge/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3-4-f4d577)](https://github.com/yankewei/LeetCode-Go/labels/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)
 [![广度优先搜索](https://img.shields.io/badge/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A0-2-61e8a4)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
-[![动态规划](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-7-e2770b)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
+[![动态规划](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-8-e2770b)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 [![二分查找](https://img.shields.io/badge/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE-5-3b8fba)](https://github.com/yankewei/LeetCode-Go/labels/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE)
 [![深度优先搜索](https://img.shields.io/badge/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2-3-9f59e0)](https://github.com/yankewei/LeetCode-Go/labels/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
 [![哈希表](https://img.shields.io/badge/%E5%93%88%E5%B8%8C%E8%A1%A8-4-46a9bf)](https://github.com/yankewei/LeetCode-Go/labels/%E5%93%88%E5%B8%8C%E8%A1%A8)
@@ -85,6 +85,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 240 | [搜索二维矩阵Ⅱ](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/27) | [二分查找](https://github.com/yankewei/LeetCode-Go/labels/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 | 300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | [Go](https://github.com/yankewei/LeetCode-Go/issues/20) | [动态规划](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)、[二分查找](https://github.com/yankewei/LeetCode-Go/labels/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE)、[数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 | 322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/14) | [动态规划](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
+| 343 | [整数拆分](https://leetcode-cn.com/problems/integer-break) | [Go](https://github.com/yankewei/LeetCode-Go/issues/51#issuecomment-666375305) | [动态规划](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 350 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | [Go](https://github.com/yankewei/LeetCode-Go/issues/42) | [哈希表](https://github.com/yankewei/LeetCode-Go/labels/%E5%93%88%E5%B8%8C%E8%A1%A8) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 365 | [水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem) | [Go](https://github.com/yankewei/LeetCode-Go/issues/28) | [深度优先搜索](https://github.com/yankewei/LeetCode-Go/labels/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)、[数学](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E5%AD%A6) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 | 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence) | [Go](https://github.com/yankewei/LeetCode-Go/issues/49) | [双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
