@@ -5,10 +5,10 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 
 #### 困难程度
 [![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-37-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
-[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-18-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
+[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-19-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-3-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
-[![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-9-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
+[![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-10-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
 [![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-18-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
 [![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-4-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
 [![设计](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1-2-4e32bc)](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1)
@@ -26,6 +26,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 [![哈希表](https://img.shields.io/badge/%E5%93%88%E5%B8%8C%E8%A1%A8-4-46a9bf)](https://github.com/yankewei/LeetCode-Go/labels/%E5%93%88%E5%B8%8C%E8%A1%A8)
 [![排序](https://img.shields.io/badge/%E6%8E%92%E5%BA%8F-1-3ce522)](https://github.com/yankewei/LeetCode-Go/labels/%E6%8E%92%E5%BA%8F)
 [![贪心算法](https://img.shields.io/badge/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95-1-ed7bce)](https://github.com/yankewei/LeetCode-Go/labels/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
+[![回溯算法](https://img.shields.io/badge/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95-1-e5408d)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95)
 
 |   #  |   Title       |   Solution   |   Tag         |      Difficulty  |
 | ---  | ----          | ----          |  ----         |        -----     |
@@ -37,7 +38,8 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Go](./Algorithm/Container-With-Most-Water.md) | 数组，双指针 | 中等 |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)  | [Go](./Algorithm/RomanToInteger.md)   | 数学, 字符串 | 简单 |
 |  14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Go](./Algorithm/LongestCommonPrefix.md) | 字符串 | 简单 |
-|  15  | [3Sum](https://leetcode.com/problems/3sum/)  | [Go](./Algorithm/3Sum.md) | 数组，双指针 | 中等 |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/)  | [Go](./Algorithm/3Sum.md) | 数组，双指针 | 中等 |
+| 17 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | [Go](https://github.com/yankewei/LeetCode-Go/issues/59) | [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)、[回溯算法](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) | 
 |  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Go](./Algorithm/RemoveNthNodeFromEndofList.md) | 链表, 双指针 | 中等 |
 |  20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/4) | [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)，[栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 |  21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Go](./Algorithm/MergeTwoSortedLists.md) | 链表 | 简单
