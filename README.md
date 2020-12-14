@@ -5,10 +5,10 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 
 #### 困难程度
 [![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-51-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
-[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-25-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
+[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-26-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-3-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
-[![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-14-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
+[![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-15-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
 [![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-20-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
 [![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-10-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
 [![设计](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1-2-4e32bc)](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1)
@@ -23,7 +23,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 [![动态规划](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-8-e2770b)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 [![二分查找](https://img.shields.io/badge/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE-5-3b8fba)](https://github.com/yankewei/LeetCode-Go/labels/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE)
 [![深度优先搜索](https://img.shields.io/badge/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2-6-9f59e0)](https://github.com/yankewei/LeetCode-Go/labels/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
-[![哈希表](https://img.shields.io/badge/%E5%93%88%E5%B8%8C%E8%A1%A8-8-46a9bf)](https://github.com/yankewei/LeetCode-Go/labels/%E5%93%88%E5%B8%8C%E8%A1%A8)
+[![哈希表](https://img.shields.io/badge/%E5%93%88%E5%B8%8C%E8%A1%A8-9-46a9bf)](https://github.com/yankewei/LeetCode-Go/labels/%E5%93%88%E5%B8%8C%E8%A1%A8)
 [![排序](https://img.shields.io/badge/%E6%8E%92%E5%BA%8F-1-3ce522)](https://github.com/yankewei/LeetCode-Go/labels/%E6%8E%92%E5%BA%8F)
 [![贪心算法](https://img.shields.io/badge/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95-2-ed7bce)](https://github.com/yankewei/LeetCode-Go/labels/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
 [![回溯算法](https://img.shields.io/badge/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95-1-e5408d)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95)
@@ -49,16 +49,17 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Go](https://github.com/yankewei/LeetCode-Go/issues/37) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84), [二分查找](https://github.com/yankewei/LeetCode-Go/labels/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 |  35  | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) |  [Go](https://github.com/yankewei/LeetCode-Go/issues/45) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84), [二分查找](https://github.com/yankewei/LeetCode-Go/labels/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 |  41  | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) | [Go](https://github.com/yankewei/LeetCode-Go/issues/32) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)、[哈希表](https://github.com/yankewei/LeetCode-Go/labels/%E5%93%88%E5%B8%8C%E8%A1%A8) | [困难](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE) |
-|  53  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [Go](./Algorithm/最大子序和.md) | 数组，动态规划 | 简单
-|  58  | [Length of LastWord](https://leetcode.com/problems/length-of-last-word/description/) | [Go](./Algorithm/LengthofLastWord.md) | 字符串 | 简单
+| 49 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams) | [Go](https://github.com/yankewei/LeetCode-Go/issues/80) | [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)、[哈希表](https://github.com/yankewei/LeetCode-Go/labels/%E5%93%88%E5%B8%8C%E8%A1%A8) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
+| 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [Go](./Algorithm/最大子序和.md) | 数组，动态规划 | 简单
+| 58 | [Length of LastWord](https://leetcode.com/problems/length-of-last-word/description/) | [Go](./Algorithm/LengthofLastWord.md) | 字符串 | 简单
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Go](./Algorithm/RotateList.md) | 链表，双指针 | 中等 |
 | 64 | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/46) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)、[动态规划](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
-|  70  | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | [Go](https://github.com/yankewei/LeetCode-Go/issues/16) | [动态规划](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
-|  71  | [简化路径](https://leetcode-cn.com/problems/simplify-path) | [Go](https://github.com/yankewei/LeetCode-Go/issues/7) | [栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88), [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
-|  82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Go](./Algorithm/RemoveDuplicatesFromSortedListII.md) | 链表 | 中等 |
-|  83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)  | [Go](./Algorithm/RemoveDuplicatesFromSortedList.md#Go) | 链表 | 简单 |
-|  86  | [分隔链表](https://leetcode-cn.com/problems/partition-list) | [Go](https://github.com/yankewei/LeetCode-Go/issues/3) | [链表](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8), [双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
-|  88  | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/9) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)，[双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
+| 70 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | [Go](https://github.com/yankewei/LeetCode-Go/issues/16) | [动态规划](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
+| 71 | [简化路径](https://leetcode-cn.com/problems/simplify-path) | [Go](https://github.com/yankewei/LeetCode-Go/issues/7) | [栈](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88), [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Go](./Algorithm/RemoveDuplicatesFromSortedListII.md) | 链表 | 中等 |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)  | [Go](./Algorithm/RemoveDuplicatesFromSortedList.md#Go) | 链表 | 简单 |
+| 86 | [分隔链表](https://leetcode-cn.com/problems/partition-list) | [Go](https://github.com/yankewei/LeetCode-Go/issues/3) | [链表](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8), [双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
+| 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/9) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)，[双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 96 | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/44) | [树](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%91)，[动态规划](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Go](./Algorithm/SameTree.md) | 树, 深度优先搜索 | 简单 |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Go](./Algorithm/SymmetricTree.md) | 树，深度优先搜索，广度优先搜索 | 简单 |
