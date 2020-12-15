@@ -5,7 +5,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 
 #### 困难程度
 [![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-51-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
-[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-26-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
+[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-27-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-3-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-15-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
@@ -25,7 +25,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 [![深度优先搜索](https://img.shields.io/badge/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2-6-9f59e0)](https://github.com/yankewei/LeetCode-Go/labels/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
 [![哈希表](https://img.shields.io/badge/%E5%93%88%E5%B8%8C%E8%A1%A8-9-46a9bf)](https://github.com/yankewei/LeetCode-Go/labels/%E5%93%88%E5%B8%8C%E8%A1%A8)
 [![排序](https://img.shields.io/badge/%E6%8E%92%E5%BA%8F-1-3ce522)](https://github.com/yankewei/LeetCode-Go/labels/%E6%8E%92%E5%BA%8F)
-[![贪心算法](https://img.shields.io/badge/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95-2-ed7bce)](https://github.com/yankewei/LeetCode-Go/labels/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
+[![贪心算法](https://img.shields.io/badge/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95-3-ed7bce)](https://github.com/yankewei/LeetCode-Go/labels/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
 [![回溯算法](https://img.shields.io/badge/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95-1-e5408d)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95)
 
 |   #  |   Title       |   Solution   |   Tag         |      Difficulty  |
@@ -114,6 +114,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii) | [Go](https://github.com/yankewei/LeetCode-Go/issues/55) | [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 617 | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | [Go](https://github.com/yankewei/LeetCode-Go/issues/70) | [树](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%91)、[深度优先搜索](https://github.com/yankewei/LeetCode-Go/labels/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island) | [Go](https://github.com/yankewei/LeetCode-Go/issues/22) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)、[深度优先搜索](https://github.com/yankewei/LeetCode-Go/labels/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
+| 738 | [单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits) | [Go](https://github.com/yankewei/LeetCode-Go/issues/81) | [贪心算法](https://github.com/yankewei/LeetCode-Go/labels/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Go](./Algorithm/RotateString.md) | | 简单 |
 | 836 | [矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap) | [Go](https://github.com/yankewei/LeetCode-Go/issues/25) | [数学](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E5%AD%A6) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 876 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/29) | [链表](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)、[双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
