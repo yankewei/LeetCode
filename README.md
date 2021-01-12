@@ -5,18 +5,18 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 
 #### 困难程度
 [![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-57-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
-[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-30-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
+[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-31-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-3-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-17-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
 [![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-22-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
-[![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-10-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
+[![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-11-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
 [![设计](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1-2-4e32bc)](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1)
 [![数学](https://img.shields.io/badge/%E6%95%B0%E5%AD%A6-4-d4c5f9)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E5%AD%A6)
 [![树](https://img.shields.io/badge/%E6%A0%91-7-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%91)
 #### 解法
 [![位运算](https://img.shields.io/badge/%E4%BD%8D%E8%BF%90%E7%AE%97-2-7786d1)](https://github.com/yankewei/LeetCode-Go/labels/%E4%BD%8D%E8%BF%90%E7%AE%97)
-[![双指针](https://img.shields.io/badge/%E5%8F%8C%E6%8C%87%E9%92%88-14-388099)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88)
+[![双指针](https://img.shields.io/badge/%E5%8F%8C%E6%8C%87%E9%92%88-15-388099)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88)
 [![栈](https://img.shields.io/badge/%E6%A0%88-6-d015ed)](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88)
 [![滑动窗口](https://img.shields.io/badge/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3-5-f4d577)](https://github.com/yankewei/LeetCode-Go/labels/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)
 [![广度优先搜索](https://img.shields.io/badge/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A0-4-61e8a4)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
@@ -142,6 +142,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 | 1561 | [你可以获得的最大硬币数目](https://leetcode-cn.com/problems/maximum-number-of-coins-you-can-get) | [Go](https://github.com/yankewei/LeetCode-Go/issues/56) | [排序](https://github.com/yankewei/LeetCode-Go/labels/%E6%8E%92%E5%BA%8F) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 | 1566 | [重复至少 K 次且长度为 M 的模式 (204周赛题)](https://leetcode-cn.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/54) | [数组](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 1567 | [替换所有的问号(205周赛题)](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [Go](https://github.com/yankewei/LeetCode-Go/issues/57) | [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
+| 1721 | [交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list) | [Go](https://github.com/yankewei/LeetCode-Go/issues/92) | [链表](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)、[双指针](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 | 5509 | [避免重复字母的最小删除成本(205周赛题)](https://leetcode-cn.com/problems/minimum-deletion-cost-to-avoid-repeating-letters) | [Go](https://github.com/yankewei/LeetCode-Go/issues/58) | [贪心算法](https://github.com/yankewei/LeetCode-Go/labels/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95) | [中等](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89) |
 | 5543 | [两个相同字符之间的最长子字符串](https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters) | [Go](https://github.com/yankewei/LeetCode-Go/issues/65) | [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)、[哈希表](https://github.com/yankewei/LeetCode-Go/labels/%E5%93%88%E5%B8%8C%E8%A1%A8) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
 | 5605 | [检查两个字符串数组是否相等【216场周赛题】](https://leetcode-cn.com/problems/check-if-two-string-arrays-are-equivalent) | [Go](https://github.com/yankewei/LeetCode-Go/issues/74) | [字符串](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2) | [简单](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95) |
