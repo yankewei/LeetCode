@@ -133,5 +133,5 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 #### 面试题
 - [和为s的连续正数序列](https://github.com/yankewei/LeetCode-Go/issues/12)
 - [队列的最大值](https://github.com/yankewei/LeetCode-Go/issues/13)
-- [字符串压缩][Go](https://github.com/yankewei/LeetCode-Go/issues/23)
+- [字符串压缩](https://github.com/yankewei/LeetCode-Go/issues/23)
 - [用两个栈实现队列](https://github.com/yankewei/LeetCode-Go/issues/39)
