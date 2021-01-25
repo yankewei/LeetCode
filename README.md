@@ -5,7 +5,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 
 #### 困难程度
 [![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-62-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
-[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-32-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
+[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-33-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-3-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-19-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
@@ -27,7 +27,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 [![排序](https://img.shields.io/badge/%E6%8E%92%E5%BA%8F-2-3ce522)](https://github.com/yankewei/LeetCode-Go/labels/%E6%8E%92%E5%BA%8F)
 [![贪心算法](https://img.shields.io/badge/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95-7-ed7bce)](https://github.com/yankewei/LeetCode-Go/labels/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
 [![回溯算法](https://img.shields.io/badge/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95-1-e5408d)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95)
-
+[![并查集](https://img.shields.io/badge/%E5%B9%B6%E6%9F%A5%E9%9B%86-1-AA3CBC)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%B6%E6%9F%A5%E9%9B%86)
 #### 题目
 - [两数之和]()
 - [两数相加](https://github.com/yankewei/LeetCode-Go/issues/71)
@@ -118,6 +118,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 - [你可以获得的最大硬币数目](https://github.com/yankewei/LeetCode-Go/issues/56)
 - [返回倒数第 k 个节点](https://github.com/yankewei/LeetCode-Go/issues/2)
 - [最长连续递增序列](https://github.com/yankewei/LeetCode-Go/issues/98)
+- [省份数量](https://github.com/yankewei/LeetCode-Go/issues/99)
 #### 周赛题
 - [重复至少 K 次且长度为 M 的模式 (204周赛题)](https://github.com/yankewei/LeetCode-Go/issues/54)
 - [替换所有的问号(205周赛题)](https://github.com/yankewei/LeetCode-Go/issues/57)
