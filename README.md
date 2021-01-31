@@ -4,12 +4,12 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
 #### 困难程度
-[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-64-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
-[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-34-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-65-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
+[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-35-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-3-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-19-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
-[![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-28-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
+[![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-29-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
 [![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-11-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
 [![设计](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1-2-4e32bc)](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1)
 [![数学](https://img.shields.io/badge/%E6%95%B0%E5%AD%A6-5-d4c5f9)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E5%AD%A6)
@@ -25,7 +25,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 [![深度优先搜索](https://img.shields.io/badge/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2-6-9f59e0)](https://github.com/yankewei/LeetCode-Go/labels/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
 [![哈希表](https://img.shields.io/badge/%E5%93%88%E5%B8%8C%E8%A1%A8-14-46a9bf)](https://github.com/yankewei/LeetCode-Go/labels/%E5%93%88%E5%B8%8C%E8%A1%A8)
 [![排序](https://img.shields.io/badge/%E6%8E%92%E5%BA%8F-2-3ce522)](https://github.com/yankewei/LeetCode-Go/labels/%E6%8E%92%E5%BA%8F)
-[![贪心算法](https://img.shields.io/badge/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95-7-ed7bce)](https://github.com/yankewei/LeetCode-Go/labels/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
+[![贪心算法](https://img.shields.io/badge/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95-8-ed7bce)](https://github.com/yankewei/LeetCode-Go/labels/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
 [![回溯算法](https://img.shields.io/badge/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95-1-e5408d)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95)
 [![并查集](https://img.shields.io/badge/%E5%B9%B6%E6%9F%A5%E9%9B%86-1-AA3CBC)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%B6%E6%9F%A5%E9%9B%86)
 [![前缀和](https://img.shields.io/badge/%E5%89%8D%E7%BC%80%E5%92%8C-2-584500)](https://github.com/yankewei/LeetCode-Go/labels/%E5%89%8D%E7%BC%80%E5%92%8C)
@@ -136,6 +136,8 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 - [删除子数组的最大得分 【第220场周赛】](https://github.com/yankewei/LeetCode-Go/issues/86)
 - [可以形成最大正方形的矩形数目【224场周赛】](https://github.com/yankewei/LeetCode-Go/issues/93)
 - [替换隐藏数字得到的最晚时间【第225场周赛】](https://github.com/yankewei/LeetCode-Go/issues/96)
+- [盒子中小球的最大数量](https://github.com/yankewei/LeetCode-Go/issues/103)
+- [从相邻元素对还原数组](https://github.com/yankewei/LeetCode-Go/issues/104)
 #### 面试题
 - [和为s的连续正数序列](https://github.com/yankewei/LeetCode-Go/issues/12)
 - [队列的最大值](https://github.com/yankewei/LeetCode-Go/issues/13)
