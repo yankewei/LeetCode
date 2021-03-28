@@ -4,8 +4,8 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
 #### 困难程度
-[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-78-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
-[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-41-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-79-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
+[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-43-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-4-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-24-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
@@ -158,6 +158,9 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 - [交替合并字符串](https://github.com/yankewei/LeetCode-Go/issues/114)
 - [移动所有球到每个盒子所需的最小操作数](https://github.com/yankewei/LeetCode-Go/issues/115)
 - [字符串中第二大的数字](https://github.com/yankewei/LeetCode-Go/issues/125)
+- [字符串中不同整数的数目](https://github.com/yankewei/LeetCode-Go/issues/126)
+- [还原排列的最少操作步数](https://github.com/yankewei/LeetCode-Go/issues/127)
+- [替换字符串中的括号内容](https://github.com/yankewei/LeetCode-Go/issues/128)
 #### 面试题
 - [和为s的连续正数序列](https://github.com/yankewei/LeetCode-Go/issues/12)
 - [队列的最大值](https://github.com/yankewei/LeetCode-Go/issues/13)
