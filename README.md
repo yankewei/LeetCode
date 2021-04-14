@@ -29,6 +29,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 [![回溯算法](https://img.shields.io/badge/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95-3-e5408d)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95)
 [![并查集](https://img.shields.io/badge/%E5%B9%B6%E6%9F%A5%E9%9B%86-1-AA3CBC)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%B6%E6%9F%A5%E9%9B%86)
 [![前缀和](https://img.shields.io/badge/%E5%89%8D%E7%BC%80%E5%92%8C-3-584500)](https://github.com/yankewei/LeetCode-Go/labels/%E5%89%8D%E7%BC%80%E5%92%8C)
+[![字典树](https://img.shields.io/badge/%E5%AD%97%E5%85%B8%E6%A0%91-1-D63A7F)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E5%85%B8%E6%A0%91)
 #### 题目
 - [两数之和]()
 - [两数相加](https://github.com/yankewei/LeetCode-Go/issues/71)
@@ -144,6 +145,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 - [笨阶乘](https://github.com/yankewei/LeetCode-Go/issues/130)
 - [最大数](https://github.com/yankewei/LeetCode-Go/issues/131)
 - [二叉搜索树节点最小距离](https://github.com/yankewei/LeetCode-Go/issues/132)
+- [实现 Trie (前缀树)](https://github.com/yankewei/LeetCode-Go/issues/133)
 #### 周赛题
 - [重复至少 K 次且长度为 M 的模式 (204周赛题)](https://github.com/yankewei/LeetCode-Go/issues/54)
 - [替换所有的问号(205周赛题)](https://github.com/yankewei/LeetCode-Go/issues/57)
