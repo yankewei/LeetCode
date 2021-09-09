@@ -4,7 +4,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 ### Algorithm
 
 #### 困难程度
-[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-83-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-84-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
 [![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-48-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-4-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
@@ -28,7 +28,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 [![贪心算法](https://img.shields.io/badge/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95-8-ed7bce)](https://github.com/yankewei/LeetCode-Go/labels/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
 [![回溯算法](https://img.shields.io/badge/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95-3-e5408d)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95)
 [![并查集](https://img.shields.io/badge/%E5%B9%B6%E6%9F%A5%E9%9B%86-1-AA3CBC)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%B6%E6%9F%A5%E9%9B%86)
-[![前缀和](https://img.shields.io/badge/%E5%89%8D%E7%BC%80%E5%92%8C-3-584500)](https://github.com/yankewei/LeetCode-Go/labels/%E5%89%8D%E7%BC%80%E5%92%8C)
+[![前缀和](https://img.shields.io/badge/%E5%89%8D%E7%BC%80%E5%92%8C-4-584500)](https://github.com/yankewei/LeetCode-Go/labels/%E5%89%8D%E7%BC%80%E5%92%8C)
 [![字典树](https://img.shields.io/badge/%E5%AD%97%E5%85%B8%E6%A0%91-1-D63A7F)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E5%85%B8%E6%A0%91)
 [![递归](https://img.shields.io/badge/%E9%80%92%E5%BD%92-1-4B4B8C)](https://github.com/yankewei/LeetCode-Go/labels/%E9%80%92%E5%BD%92)
 #### 题目
@@ -152,6 +152,7 @@ LeetCode问题的解决方法，主要使用Go语言来实现
 - [错误的集合](https://github.com/yankewei/LeetCode-Go/issues/136)
 - [点菜展示表](https://github.com/yankewei/LeetCode-Go/issues/137)
 - [基于时间的键值存储](https://github.com/yankewei/LeetCode-Go/issues/138)
+- [逐步求和得到正数的最小值](https://github.com/yankewei/LeetCode-Go/issues/140)
 #### 周赛题
 - [重复至少 K 次且长度为 M 的模式 (204周赛题)](https://github.com/yankewei/LeetCode-Go/issues/54)
 - [替换所有的问号(205周赛题)](https://github.com/yankewei/LeetCode-Go/issues/57)
