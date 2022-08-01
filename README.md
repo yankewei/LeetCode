@@ -4,11 +4,11 @@ LeetCode问题的解决方法
 ### Algorithm
 
 #### 困难程度
-[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-89-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-90-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
 [![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-49-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-4-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
-[![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-26-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
+[![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-27-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
 [![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-43-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
 [![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-11-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
 [![设计](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1-2-4e32bc)](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1)
@@ -158,6 +158,7 @@ LeetCode问题的解决方法
 - [截断句子](https://github.com/yankewei/LeetCode-Go/issues/143)
 - [差的绝对值为 K 的数对数目](https://github.com/yankewei/LeetCode-Go/issues/144)
 - [单值二叉树](https://github.com/yankewei/LeetCode-Go/issues/145)
+- [生成每种字符都是奇数个的字符串](https://github.com/yankewei/LeetCode/issues/147)
 #### 周赛题
 - [重复至少 K 次且长度为 M 的模式 (204周赛题)](https://github.com/yankewei/LeetCode-Go/issues/54)
 - [替换所有的问号(205周赛题)](https://github.com/yankewei/LeetCode-Go/issues/57)
