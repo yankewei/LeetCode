@@ -4,11 +4,11 @@ LeetCode问题的解决方法
 ### Algorithm
 
 #### 困难程度
-[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-93-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-94-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
 [![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-51-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-5-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
-[![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-29-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
+[![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-30-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
 [![数组](https://img.shields.io/badge/%E6%95%B0%E7%BB%84-45-efa5ac)](https://github.com/yankewei/LeetCode-Go/labels/%E6%95%B0%E7%BB%84)
 [![链表](https://img.shields.io/badge/%E9%93%BE%E8%A1%A8-11-e2f497)](https://github.com/yankewei/LeetCode-Go/labels/%E9%93%BE%E8%A1%A8)
 [![设计](https://img.shields.io/badge/%E8%AE%BE%E8%AE%A1-2-4e32bc)](https://github.com/yankewei/LeetCode-Go/labels/%E8%AE%BE%E8%AE%A1)
@@ -165,6 +165,7 @@ LeetCode问题的解决方法
 - [在二叉树中增加一行](https://github.com/yankewei/LeetCode/issues/151)
 - [函数的独占时间](https://github.com/yankewei/LeetCode/issues/152)
 - [层数最深叶子节点的和](https://github.com/yankewei/LeetCode/issues/153)
+- [检查单词是否为句中其他单词的前缀](https://github.com/yankewei/LeetCode/issues/154)
 #### 周赛题
 - [重复至少 K 次且长度为 M 的模式 (204周赛题)](https://github.com/yankewei/LeetCode-Go/issues/54)
 - [替换所有的问号(205周赛题)](https://github.com/yankewei/LeetCode-Go/issues/57)
