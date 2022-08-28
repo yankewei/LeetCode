@@ -4,8 +4,8 @@ LeetCode问题的解决方法
 ### Algorithm
 
 #### 困难程度
-[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-94-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
-[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-51-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
+[![简单](https://img.shields.io/badge/%E7%AE%80%E5%8D%95-95-5cb85c)](https://github.com/yankewei/LeetCode-Go/labels/%E7%AE%80%E5%8D%95)
+[![中等](https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-52-f0ad4e)](https://github.com/yankewei/LeetCode-Go/labels/%E4%B8%AD%E7%AD%89)
 [![困难](https://img.shields.io/badge/%E5%9B%B0%E9%9A%BE-5-d9534f)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%B0%E9%9A%BE)
 #### 类型
 [![字符串](https://img.shields.io/badge/%E5%AD%97%E7%AC%A6%E4%B8%B2-30-c2e0c6)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E7%AC%A6%E4%B8%B2)
@@ -17,7 +17,7 @@ LeetCode问题的解决方法
 #### 解法
 [![位运算](https://img.shields.io/badge/%E4%BD%8D%E8%BF%90%E7%AE%97-3-7786d1)](https://github.com/yankewei/LeetCode-Go/labels/%E4%BD%8D%E8%BF%90%E7%AE%97)
 [![双指针](https://img.shields.io/badge/%E5%8F%8C%E6%8C%87%E9%92%88-20-388099)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8F%8C%E6%8C%87%E9%92%88)
-[![栈](https://img.shields.io/badge/%E6%A0%88-10-d015ed)](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88)
+[![栈](https://img.shields.io/badge/%E6%A0%88-11-d015ed)](https://github.com/yankewei/LeetCode-Go/labels/%E6%A0%88)
 [![滑动窗口](https://img.shields.io/badge/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3-8-f4d577)](https://github.com/yankewei/LeetCode-Go/labels/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3)
 [![广度优先搜索](https://img.shields.io/badge/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A0-5-61e8a4)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
 [![动态规划](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-12-e2770b)](https://github.com/yankewei/LeetCode-Go/labels/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
@@ -28,7 +28,7 @@ LeetCode问题的解决方法
 [![贪心算法](https://img.shields.io/badge/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95-9-ed7bce)](https://github.com/yankewei/LeetCode-Go/labels/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
 [![回溯算法](https://img.shields.io/badge/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95-3-e5408d)](https://github.com/yankewei/LeetCode-Go/labels/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95)
 [![并查集](https://img.shields.io/badge/%E5%B9%B6%E6%9F%A5%E9%9B%86-1-AA3CBC)](https://github.com/yankewei/LeetCode-Go/labels/%E5%B9%B6%E6%9F%A5%E9%9B%86)
-[![前缀和](https://img.shields.io/badge/%E5%89%8D%E7%BC%80%E5%92%8C-4-584500)](https://github.com/yankewei/LeetCode-Go/labels/%E5%89%8D%E7%BC%80%E5%92%8C)
+[![前缀和](https://img.shields.io/badge/%E5%89%8D%E7%BC%80%E5%92%8C-5-584500)](https://github.com/yankewei/LeetCode-Go/labels/%E5%89%8D%E7%BC%80%E5%92%8C)
 [![字典树](https://img.shields.io/badge/%E5%AD%97%E5%85%B8%E6%A0%91-1-D63A7F)](https://github.com/yankewei/LeetCode-Go/labels/%E5%AD%97%E5%85%B8%E6%A0%91)
 [![递归](https://img.shields.io/badge/%E9%80%92%E5%BD%92-1-4B4B8C)](https://github.com/yankewei/LeetCode-Go/labels/%E9%80%92%E5%BD%92)
 #### 题目
@@ -189,6 +189,8 @@ LeetCode问题的解决方法
 - [替换字符串中的括号内容](https://github.com/yankewei/LeetCode-Go/issues/128)
 - [检查字符串是否为数组前缀](https://github.com/yankewei/LeetCode-Go/issues/139)
 - [使数组中所有元素都等于零](https://github.com/yankewei/LeetCode/issues/146)
+- [和有限的最长子序列](https://github.com/yankewei/LeetCode/issues/155)
+- [从字符串中移除星号](https://github.com/yankewei/LeetCode/issues/156)
 #### 面试题
 - [和为s的连续正数序列](https://github.com/yankewei/LeetCode-Go/issues/12)
 - [队列的最大值](https://github.com/yankewei/LeetCode-Go/issues/13)
