@@ -169,6 +169,7 @@ LeetCode问题的解决方法
 - [重新排列单词间的空格](https://github.com/yankewei/LeetCode/issues/157)
 - [文件夹操作日志搜集器](https://github.com/yankewei/LeetCode/issues/158)
 - [按照频率将数组升序排序](https://github.com/yankewei/LeetCode/issues/159)
+- [最长的字母序连续子字符串的长度](https://github.com/yankewei/LeetCode/issues/161)
 #### 周赛题
 - [重复至少 K 次且长度为 M 的模式 (204周赛题)](https://github.com/yankewei/LeetCode-Go/issues/54)
 - [替换所有的问号(205周赛题)](https://github.com/yankewei/LeetCode-Go/issues/57)
