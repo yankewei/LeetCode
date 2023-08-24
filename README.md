@@ -172,6 +172,7 @@ LeetCode问题的解决方法
 - [最长的字母序连续子字符串的长度](https://github.com/yankewei/LeetCode/issues/161)
 - [移动片段得到字符串](https://github.com/yankewei/LeetCode/issues/162)
 - [到最近的人的最大距离](https://github.com/yankewei/LeetCode/issues/163)
+- [统计参与通信的服务器](https://github.com/yankewei/LeetCode/issues/164)
 #### 周赛题
 - [重复至少 K 次且长度为 M 的模式 (204周赛题)](https://github.com/yankewei/LeetCode-Go/issues/54)
 - [替换所有的问号(205周赛题)](https://github.com/yankewei/LeetCode-Go/issues/57)
